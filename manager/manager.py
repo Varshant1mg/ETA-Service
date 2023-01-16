@@ -1,4 +1,4 @@
 from datetime import datetime
 
-s=datetime.now()
-print(s)
+st=datetime.now()
+print(st)
